@@ -1,7 +1,5 @@
 # 实验一：约瑟夫环求解
 
-[TOC]
-
 ## PreKnowledge
 
 ### sh 脚本的使用
